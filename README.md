@@ -79,8 +79,8 @@
 
 本仓库是 Web3 资源矩阵的子节点。探索更多硬核领域，请访问我们的其他开源阵地：
 
-* 🌐 **[核心主阵地] 综合 Web3 导航矩阵**：[Awesome-Web3-Matrix](https://github.com/你的账号/Awesome-Web3-Matrix)
-* 🎁 **[衍生阵地 2] 自动化空投交互脚本**：[web3-airdrop-scripts-2026](https://github.com/你的账号/web3-airdrop-scripts-2026)
-* 🕵️ **[衍生阵地 3] 巨鲸追踪与链上数据**：[onchain-data-trackers](https://github.com/你的账号/onchain-data-trackers)
+* 🌐 **[核心主阵地] 综合 Web3 导航矩阵**：[Awesome-Web3-Matrix](https://github.com/store-app-app/Awesome-Web3-Matrix)
+* 🎁 **[衍生阵地 2] 自动化空投交互脚本**：[web3-airdrop-scripts](https://github.com/store-app-app/web3-airdrop-scripts)
+* 🕵️ **[衍生阵地 3] 巨鲸追踪与链上数据**：[onchain-data-trackers](https://github.com/store-app-app/onchain-data-trackers)
 
 **获取专属 API 密钥与部署教程**：[www.usdtbi.com](https://www.usdtbi.com)
